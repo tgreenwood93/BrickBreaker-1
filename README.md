@@ -9,7 +9,7 @@ Watch the tutorial here! [https://youtu.be/5kEPixL8JoU](https://youtu.be/5kEPixL
 
 ### Viewer Remixes of the Game
 * [Colorful Brick Breaker](https://yining1023.github.io/brickBreaker), [Code](https://github.com/yining1023/brickBreaker)
-* [Brick Breaker with Levels](https://tgreenwood93.github.io/BrickBreaker/), [Code](https://github.com/tgreenwood93/BrickBreaker)
+* [Brick Breaker by Tom Greenwood](https://tgreenwood93.github.io/BrickBreaker/), [Code](https://github.com/tgreenwood93/BrickBreaker)
 * Add your name and link here!
 
 ### Getting Started
